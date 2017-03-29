@@ -29,4 +29,4 @@ Navigate to one of the following jupyter notebooks in the `notebooks/` folder, o
 - **Exploring the Qumulo API python bindings.ipynb** - A deeper dive into the modules of the Qumulo API, including filesystem, configuration, analytics and more.
 - **Raw REST examples for the Qumulo API with python.ipynb** - How to use the python `requests` library to make raw HTTP REST requests against Qumulo.
 
-[Quickstart guide for Qumulo python API.ipynb](blob/master/notebooks/Quickstart%20guide%20for%20Qumulo%20python%20API.ipynb)
+[Quickstart guide for Qumulo python API.ipynb](../blob/master/notebooks/Quickstart%20guide%20for%20Qumulo%20python%20API.ipynb)
